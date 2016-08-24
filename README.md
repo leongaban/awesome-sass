@@ -8,6 +8,7 @@ Originally forked from [HugoGiraudel](https://github.com/HugoGiraudel/awesome-sa
 
 ## Projects
 
+* [Sass-Smacss](https://github.com/leongaban/sass-smacss): a SASS project starter kit based on the SMACSS methodology
 * [Sass Reference](http://www.sitepoint.com/sass-reference/): SitePoint Sass Reference
 * [SassDoc](https://github.com/SassDoc/sassdoc): release the docs!
 * [Sass Guidelines](https://sass-guidelin.es): an opinionated styleguide for writing sane, maintainable and scalable Sass
@@ -25,7 +26,6 @@ Originally forked from [HugoGiraudel](https://github.com/HugoGiraudel/awesome-sa
 * [SassyLogger](https://github.com/HugoGiraudel/SassyLogger): a message logger in Sass
 * [SassyGradients](https://github.com/HugoGiraudel/SassyGradients): a collection of tools to help manipulate gradients in a dynamic way
 * [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators): iterators and generators implementation in Sass
-* [Sass-Smacss](https://github.com/leongaban/sass-smacss): a SASS project starter kit based on the SMACSS methodology
 
 ## On [HugoGiraudel's blog](http://hugogiraudel.com)
 
