@@ -1,6 +1,6 @@
 # Awesome Sass
 
-**Disclaimer!** Fair warning: this list is a way for me to keep track of all my work around Sass. For this reason, I do not accept pull-requests. That being said I am willing to have another version of this list with everbody's work, even if it means renaming this repository. :)
+Originally forked from [HugoGiraudel](https://github.com/HugoGiraudel/awesome-sass)
 
 ## Books
 
@@ -25,6 +25,7 @@
 * [SassyLogger](https://github.com/HugoGiraudel/SassyLogger): a message logger in Sass
 * [SassyGradients](https://github.com/HugoGiraudel/SassyGradients): a collection of tools to help manipulate gradients in a dynamic way
 * [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators): iterators and generators implementation in Sass
+* [Sass-Smacss](https://github.com/leongaban/sass-smacss): a SASS project starter kit based on the SMACSS methodology
 
 ## On [my blog](http://hugogiraudel.com)
 
@@ -139,6 +140,7 @@
 * [MetaFizzy effect with Sass](http://css-tricks.com/metafizzy-effect-with-sass/) at CSS-Tricks (12-08-2013)
 * [Looking into the future of Sass](http://davidwalsh.name/future-sass) at David Walsh' (17-07-2013)
 * [Create Striped Backgrounds With Gradients (and a Sass Mixin)](http://css-tricks.com/striped-background-gradients/) at CSS-Tricks (09-07-2013)
+* [SMACSS A flexible guide to developing sites small and large.](https://smacss.com/) at smacss.com
 
 ## Screencasts
 
