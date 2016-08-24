@@ -27,7 +27,7 @@ Originally forked from [HugoGiraudel](https://github.com/HugoGiraudel/awesome-sa
 * [SassyIteratorsGenerators](https://github.com/HugoGiraudel/SassyIteratorsGenerators): iterators and generators implementation in Sass
 * [Sass-Smacss](https://github.com/leongaban/sass-smacss): a SASS project starter kit based on the SMACSS methodology
 
-## On [my blog](http://hugogiraudel.com)
+## On [HugoGiraudel's blog](http://hugogiraudel.com)
 
 * [Styling React Components in Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/) by David Khourshid (18-06-2015)
 * [Translating Sass Guidelines](http://hugogiraudel.com/2015/02/03/translating-sass-guidelines/) (03-02-2015)
